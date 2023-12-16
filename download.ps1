@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+# PowerShell script for downloading Llama models.
 
 # Copyright (c) Nervosys, LLC. and affiliates.
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
