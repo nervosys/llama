@@ -3,7 +3,6 @@
 # Copyright (c) Nervosys, LLC. and affiliates.
 # This software may be used and distributed according to the terms of the Llama 2 Community License Agreement.
 
-$TEST_URL = ""
 $PRESIGNED_URL = Read-Host "Enter the URL from email: "
 
 Write-Output.
